@@ -1,2 +1,2 @@
-let aluno
+let  aluno
 let professor 
